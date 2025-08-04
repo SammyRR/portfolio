@@ -697,6 +697,12 @@ section,
   background-color: var(--accent-color);
 }
 
+.skills .progresshtml {
+  height: 60px;
+  display: block;
+  background: none;
+  border-radius: 0;
+}
 /*--------------------------------------------------------------
 # Resume Section
 --------------------------------------------------------------*/
